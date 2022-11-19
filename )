@@ -1,0 +1,17 @@
+```$nomention
+
+$title[DBL Arama!]
+
+$description[
+
+Aratan 》 $username[$authorID]
+
+Aranan 》$message
+
+Sonuç  》[Tıkla!](https://top.gg/bot/$message) ]
+
+$argsCheck[>1;Hangi Botu arayayım]
+
+$footer[$username]
+
+$footerIcon[$authorAvatar]```
